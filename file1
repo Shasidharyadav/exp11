@@ -1,0 +1,7 @@
+git commands 
+ git 
+ git init
+ git config --global user.name 'username'
+ git config --global user.email 'uremail'
+ git clone 'copied path'
+
